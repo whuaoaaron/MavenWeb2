@@ -1,4 +1,4 @@
-package com.mkyong.rest;
+package com.whuao.rest;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -11,8 +11,8 @@ import javax.ws.rs.Produces;
 import javax.ws.rs.core.MediaType;
 import javax.ws.rs.core.Response;
 
-import com.mkyong.Input;
-import com.mkyong.Track;
+import com.whuao.Input;
+import com.whuao.Track;
 
 @Path("/json/metallica")
 public class JSONService {

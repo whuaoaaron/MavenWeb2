@@ -1,6 +1,6 @@
-package com.mkyong.client;
+package com.whuao.client;
 
-import com.mkyong.Track;
+import com.whuao.Track;
 import com.sun.jersey.api.client.Client;
 import com.sun.jersey.api.client.ClientResponse;
 import com.sun.jersey.api.client.WebResource;

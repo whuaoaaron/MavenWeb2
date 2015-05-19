@@ -1,11 +1,11 @@
-package com.mkyong.client;
+package com.whuao.client;
 
 import java.util.ArrayList;
 import java.util.List;
 
 import org.codehaus.jettison.json.JSONObject;
 
-import com.mkyong.Input;
+import com.whuao.Input;
 import com.sun.jersey.api.client.Client;
 import com.sun.jersey.api.client.ClientResponse;
 import com.sun.jersey.api.client.WebResource;
